@@ -21,3 +21,12 @@ footer{
 .codi{
     color: #fbfbff;
 }
+.topnav{
+    background-color: rgb(231, 245, 243);
+    height: 20px;
+    text-align: center;
+    
+}
+.topnav a:hover {
+    color: rgb(20, 47, 48);
+}
