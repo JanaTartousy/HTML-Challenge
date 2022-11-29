@@ -1,0 +1,23 @@
+
+header{
+    text-align: center;
+    background-color: cadetblue;
+}
+h2{
+    color: darkcyan;
+}
+h3{
+    color: darkcyan;
+}
+footer{
+    background-color: cadetblue;
+    width: auto;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding: 1.2em;
+
+}
+.codi{
+    color: #fbfbff;
+}
